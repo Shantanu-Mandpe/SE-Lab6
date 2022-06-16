@@ -2,11 +2,8 @@
  First RMI Project
 
  Author : Shantanu Mandpe 
-
  University : HAW Hamburg 
-
  Course : Software Engineering 
- 
  Professor : Prof. Dr. Wolfgang Renz
 
 I implemented the UC of the Lab Project – Go to charging Station (update battery Indicator) which has Distributed Observer Design Pattern, Singleton, and Strategy Design Pattern. 
