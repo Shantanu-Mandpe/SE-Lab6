@@ -1,7 +1,12 @@
 # SE-Lab6
  First RMI Project
 
-I implemented the UC of a Lab Project – Go to charging Station (update battery Indicator) which has Distributed Observer Design Pattern, Singleton, and Strategy Design Pattern. 
+ Author : Shantanu Mandpe 
+ University : HAW Hamburg
+ Course : Software Engineering 
+ Professor : Prof. Dr. Wolfgang Renz
+
+I implemented the UC of the Lab Project – Go to charging Station (update battery Indicator) which has Distributed Observer Design Pattern, Singleton, and Strategy Design Pattern. 
 The RobotServer class starts the Server which the Main class then utilizes to then run the demonstrator which checks the vertical prototype application.
 
 After running the program, we first must input a value between 1-3 which acts as a user input which decides which algorithm the program will run. This simulates, the action of choosing different task on the App as the robot uses different movement algorithms for different tasks. But, in the scope of the Demonstrator the three different algorithms just change the speed at which the robot moves on the pre-determined path.
