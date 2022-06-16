@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AppDisplay
+comment1.params=rsd
+comment1.target=AppDisplay(IRobotSystemDatabase)
+comment2.params=value
+comment2.target=void\ setValue(int)
+comment3.params=o\ arg
+comment3.target=void\ update(IObservable,\ java.lang.Object)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=IRobotSystemDatabase\ getRsd()
+numComments=6
