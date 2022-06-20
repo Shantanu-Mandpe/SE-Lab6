@@ -1,3 +1,10 @@
+/*
+ * Author : Shantanu Mandpe
+ * Date : 17/06/2022
+ * Lab : IE-SEL
+ * Class implements local interface AlgorithmManager
+ */
+
 import java.io.Serializable;
 import java.rmi.RemoteException;
 
@@ -22,7 +29,7 @@ public class HardwareController implements IHardwareController , Serializable{
         } else if (userCommand == 3) {
             newPosition = am2.startAlgorithm(player);
         }*/
-        return am.startAlgorithm(player);
+        return am.updateAlgorithm(player);
     }
 
     // changes the algorithm dynamically

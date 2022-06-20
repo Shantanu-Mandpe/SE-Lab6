@@ -1,3 +1,10 @@
+/*
+ * Author : Shantanu Mandpe
+ * Date : 17/06/2022
+ * Lab : IE-SEL
+ * Remote Interface for communication between the server and client side, transfer values of the variable
+ */
+
 //import java.rmi.Remote;
 import java.rmi.RemoteException;
 

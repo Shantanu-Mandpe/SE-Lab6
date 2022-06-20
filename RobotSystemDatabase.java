@@ -1,3 +1,10 @@
+/*
+ * Author : Shantanu Mandpe
+ * Date : 17/06/2022
+ * Lab : IE-SEL
+ * Class is the subject which is observed by observers for the distributed observer pattern
+ */
+
 import java.rmi.RemoteException;
 
 public class RobotSystemDatabase extends Observable implements IRobotSystemDatabase{

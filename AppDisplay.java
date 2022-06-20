@@ -1,3 +1,10 @@
+/*
+ * Author : Shantanu Mandpe
+ * Date : 17/06/2022
+ * Lab : IE-SEL
+ * App Display is an observer in the distributed observer pattern, which is used to display the variables(parameters) 
+ */
+
 //import java.io.Serializable;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;

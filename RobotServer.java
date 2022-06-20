@@ -1,3 +1,10 @@
+/*
+ * Author : Shantanu Mandpe
+ * Date : 17/06/2022
+ * Lab : IE-SEL
+ * Class starts and runs the server for the RMI project
+ */
+
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;

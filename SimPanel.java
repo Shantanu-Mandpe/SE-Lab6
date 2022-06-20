@@ -1,3 +1,11 @@
+/*
+ * Author : Shantanu Mandpe
+ * Date : 17/06/2022
+ * Lab : IE-SEL
+ * Class is the observer for the distributed observer pattern, the GUI part of the project and the game thread is implemented here. 
+ * It is also used to set the new values of the parameters (variables)
+ * */
+
 //import java.io.Serializable;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
