@@ -1,5 +1,5 @@
 # SE-Lab6
- First RMI Project
+ JAVA Lab Project which uses Design Patterns, RMI Features, GUI components and a Game Thread(for simulating time)
 
  ◼Author : Shantanu Mandpe 
  
